@@ -11,6 +11,10 @@ To install the project, follow these steps:
 3- Install dependencies: `npm install --save` or `yarn install` <br />
 4- Start the development server: npm start or yarn start <br />
 
+# Getting started with `js-dynamic-class`
+
+Here is an example of a basic app using js-dynamic-class Button component:<br/>
+
 ```
 import { useStyles } from './useStyles';
 
@@ -22,7 +26,7 @@ const styles = {
     }
 }
 
-function MyComponent() {
+function Button() {
     const classes = useStyles(styles);
     return <button className={classes.myButton}>Click me</button>
 }
