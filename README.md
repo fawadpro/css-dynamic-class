@@ -6,10 +6,10 @@ js-dynamic-class is a library for developers that enables them to create custom 
 
 To install the project, follow these steps:
 
-1- Clone the repository: git clone https://github.com/fawadpro/js-dynamic-class.git
-2- Navigate to the project directory: `cd project-name`
-3- Install dependencies: `npm install --save` or `yarn install`
-4- Start the development server: npm start or yarn start
+1- Clone the repository: git clone https://github.com/fawadpro/js-dynamic-class.git <br />
+2- Navigate to the project directory: `cd project-name` <br />
+3- Install dependencies: `npm install --save` or `yarn install` <br />
+4- Start the development server: npm start or yarn start <br />
 
 ```
 import { useStyles } from './useStyles';
