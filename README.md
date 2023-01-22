@@ -16,7 +16,7 @@ To install the project, follow these steps:
 Here is an example of a basic app using js-dynamic-class Button component:<br/>
 
 ```
-import { useStyles } from './useStyles';
+import { useStyles } from 'js-dynamic-class';
 
 const styles = {
     myButton: {
