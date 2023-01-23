@@ -1,7 +1,7 @@
 {
-  "name": "js-dynamic-class",
-  "version": "1.0.0",
-  "description": "js-dynamic-class is a library for developers that enables them to create custom CSS styles using JavaScript. The createStyles hook automatically generates CSS class names from a styles object, making it easy to create dynamic styles that adapt to component state or specific conditions.",
+  "name": "css-dynamic-class",
+  "version": "1.0.2",
+  "description": "css-dynamic-class is a library for developers that enables them to create custom CSS styles using JavaScript. The createStyles hook automatically generates CSS class names from a styles object, making it easy to create dynamic styles that adapt to component state or specific conditions.",
   "main": "index.js",
   "scripts": {
     "start":"index.js",
