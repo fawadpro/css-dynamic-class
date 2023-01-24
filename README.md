@@ -1,5 +1,3 @@
-# `css-dynamic-class?`
-
 css-dynamic-class is a library for developers that enables them to create custom CSS styles using JavaScript. The createStyles hook automatically generates unique CSS class names from a styles object, making it easy to create dynamic styles that adapt to component state or specific conditions.
 
 # Installation

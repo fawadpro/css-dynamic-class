@@ -1,6 +1,6 @@
 {
   "name": "css-dynamic-class",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "css-dynamic-class is a library for developers that enables them to create custom CSS styles using JavaScript. The createStyles hook automatically generates CSS class names from a styles object, making it easy to create dynamic styles that adapt to component state or specific conditions.",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fawadpro/js-dynamic-class.git"
+    "url": "git+https://github.com/fawadpro/css-dynamic-class.git"
   },
   "keywords": [
     "js-dynamic-class",
@@ -20,7 +20,7 @@
   "author": "Fawad Shah",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/fawadpro/js-dynamic-class/issues"
+    "url": "https://github.com/fawadpro/css-dynamic-class/issues"
   },
-  "homepage": "https://github.com/fawadpro/js-dynamic-class#readme"
+  "homepage": "https://github.com/fawadpro/css-dynamic-class#readme"
 }
