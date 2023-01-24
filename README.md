@@ -6,7 +6,7 @@ To install the project, follow these steps:
 
 1- Clone the repository: git clone https://github.com/fawadpro/css-dynamic-class.git <br />
 2- Navigate to the project directory: `cd project-name` <br />
-3- Install dependencies: `npm install --save` or `yarn install` <br />
+3- Install dependencies: `npm install css-dynamic-class --save` or `yarn install css-dynamic-class` <br />
 4- Start the development server: npm start or yarn start <br />
 
 # Getting started with `css-dynamic-class`
